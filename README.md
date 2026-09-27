@@ -1,6 +1,7 @@
 # Biocomputing Lab
 
 用 Python 从零模拟神经元计算的个人实验室，学习笔记 + 可复现实验。
+*Exploring biological computation through simulated neurons and spiking neural networks.*
 仓库：<https://github.com/gminge/biocomputing>
 
 ## 路线图
@@ -71,3 +72,4 @@ python experiments/phase01_single_neuron/exp03_spike_input.py
   高频时被不应期饱和到 1/t_ref 上限。
 - **时间整合**：指数衰减的突触后电流（PSC）让神经元对密集输入脉冲敏感——
   这正是第二阶段突触模型的雏形。
+
